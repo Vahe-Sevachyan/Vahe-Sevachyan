@@ -29,7 +29,7 @@
 - 😄 I want to learn everything Web and Mobile development related 🤣
 - ⚡ Fun Fact: I love to do archery, i shoot a Mathews VXR🏹
 - 🌐 You can see some of my projects on [My Portfolio](https://vahe.tech/)
-- 💻 You can see my resume on [My Resume](https://drive.google.com/file/d/1cwS4fia03wCe6_97kA6wduxhLua6zTL5/view)
+- 💻 You can see my resume at [My Resume](https://drive.google.com/file/d/1cwS4fia03wCe6_97kA6wduxhLua6zTL5/view)
 
 ---
 
