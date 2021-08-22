@@ -69,7 +69,7 @@
 
 ---
 
-### 🔭 Something Which is Developed by Me 💻
+### 🔭Developed by Me 💻
 
 [![Apple.com Clone](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Apple.com_Mock-Up&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Vahe-Sevachyan/Apple.com_Mock-Up)
 
