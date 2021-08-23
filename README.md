@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning JavaScript and React🤔
 - 🎓 I'm a Tech Degree Graduate from TreeHouse💻
 - 🥅 2021 Goals: JavaScript & React ⚡
-- 👯 I’m looking to collaborate with other content creators
+- 🤝 I’m looking to collaborate with other content creators
 - 😄 I want to learn everything Web and Mobile development related 🤣
 - ⚡ Fun Fact: I love to do archery, i shoot a Mathews VXR🏹
 - 🌐 You can see some of my projects on [My Portfolio](https://vahe.tech/)
