@@ -72,6 +72,8 @@
 
 [![Apple.com Clone](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Apple.com_Mock-Up&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Vahe-Sevachyan/Apple.com_Mock-Up)
 
+[![Apple.com Clone](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Password-Amplifier&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://vahe-sevachyan.github.io/Password-Amplifier/)
+ 
 [![Apple.com Clone](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Bookmark-Tracker&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Vahe-Sevachyan/Bookmark-Tracker)
 
-[![Apple.com Clone](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Number-Finder&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Vahe-Sevachyan/Number-Finder)
+
