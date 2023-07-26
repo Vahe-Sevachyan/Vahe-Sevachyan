@@ -2,7 +2,7 @@
 
 ---
 
-> Hey there, I'm Vahe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>. Currently, I'm learning JavaScript and React. I like to explore new things in the web world. On my free time i like to read web based articles and do archery.
+> Hey there, I'm Vahe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>. Currently, I'm learning JavaScript and React. I like to explore new things in the web world. On my free time i like to read web based articles @ [Dev.to](https://dev.to/)  and do archery.
 
 ---
 
