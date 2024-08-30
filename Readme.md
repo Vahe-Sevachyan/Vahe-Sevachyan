@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning JavaScript and React🤔
 - 🎓 I'm a Tech Degree Graduate from TreeHouse💻
-- 🥅 2024 Goals: JavaScript & React ⚡
+- 🥅 2024 Goals: TypeScript & Vue JS ⚡
 - 🤝 I’m looking to collaborate with other developers
 - 😄 I want to learn everything Web and Mobile development related 🤣
 - ⚡ Fun Fact: I love to do archery, i shoot a Mathews VXR🏹
