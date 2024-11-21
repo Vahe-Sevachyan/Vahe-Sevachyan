@@ -27,7 +27,7 @@
 - 🤝 I’m looking to collaborate with other developers
 - ⚡ Fun Fact: I love to do archery, i shoot a Mathews VXR🏹
 - 🌐 You can see some of my projects on [My Portfolio](https://vahe.tech/)
-- 💻 You can see my resume at [My Resume]((https://drive.google.com/file/d/1Azql6ibYzep5KIgsWHR04hTQho_-4cYu/view?usp=drive_link))
+- 💻 You can see my resume at [My Resume](https://drive.google.com/file/d/1Azql6ibYzep5KIgsWHR04hTQho_-4cYu/view?usp=drive_link)
 
 ---
 
