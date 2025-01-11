@@ -2,7 +2,7 @@
 
 ---
 
-> Hey there, I'm Vahe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>. Currently, I'm learning Vue JS and TypeScript. On my free time i like to read tech based articles at forums like [dev.to](https://dev.to/) & [medium](https://medium.com/) thats why i have the [daily.dev extention](https://daily.dev/) on all my browsers so im always update to the with the latest tech news and trending topics. Also i love target shooting with my [Mathews VXR](https://www.gohunt.com/browse/tips-and-tricks/archery/2020-mathews-vxr-bow-review).
+> Hey there, I'm Vahe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>. Currently, I'm learning React and TypeScript. On my free time i like to read tech based articles at forums like [dev.to](https://dev.to/) & [medium](https://medium.com/) thats why i have the [daily.dev extention](https://daily.dev/) on all my browsers so im always update to the with the latest tech news and trending topics. Also i love target shooting with my [Mathews VXR](https://www.gohunt.com/browse/tips-and-tricks/archery/2020-mathews-vxr-bow-review).
 ---
 
  <img align='right' src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif?cid=ecf05e47r73yhizb3s3aqaejm6hxnwmih9d5fx2m230mlwlg&rid=giphy.gif&ct=g" width="230">
@@ -21,9 +21,9 @@
 
 ### 📝 Some things about me
 
-- 🌱 I’m currently learning JavaScript and Vue JS🤔
+- 🌱 I’m currently learning React and TypeScript🤔
 - 🎓 I'm a Tech Degree Graduate from TreeHouse💻
-- 🥅 2024 Goals: TypeScript and Nuxt JS  ⚡
+- 🥅 2024 Goals: Node JS and Next JS  ⚡
 - 🤝 I’m looking to collaborate with other developers
 - ⚡ Fun Fact: I love to do archery, i shoot a Mathews VXR🏹
 - 🌐 You can see some of my projects on [My Portfolio](https://vahe.tech/)
