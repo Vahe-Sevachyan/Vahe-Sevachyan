@@ -40,6 +40,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=0081CB)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
 ---
 
