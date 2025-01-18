@@ -39,6 +39,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=0081CB)
 
 ---
