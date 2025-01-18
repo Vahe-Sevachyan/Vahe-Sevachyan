@@ -35,8 +35,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
-![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82)](#)
+![React](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=reactdotjs&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Nuxt.js-002E3B?logo=nextdotjs&logoColor=#00DC82)](#)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
