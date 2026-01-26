@@ -1,10 +1,5 @@
 <p align="center"><img alt="GIF" src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif?cid=ecf05e47pqglm8zguix80bz2dqj5mivs2koqjutvj5hpc6tt&rid=giphy.gif&ct=g" width="45%" height="auto"/></p>
-
 ---
-
-> Hey there, I'm Vahe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>. Currently, I'm learning React and TypeScript.
----
-
  <img align='right' src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif?cid=ecf05e47r73yhizb3s3aqaejm6hxnwmih9d5fx2m230mlwlg&rid=giphy.gif&ct=g" width="230">
   <p>
 
