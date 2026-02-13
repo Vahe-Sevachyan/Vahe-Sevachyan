@@ -47,18 +47,3 @@
 
 ---
 
-### 🔭Developed by Me 💻
-
-[![Keynote](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=keynote&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://vahe-sevachyan.github.io/keynote/)
-
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=calculator-vjs&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://vahe-sevachyan.github.io/calculator-vjs/)
-
-[![Rock Paper Scissor](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Rock-Paper-Scissor&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://vahe-sevachyan.github.io/Rock-Paper-Scissor/)
-
-[![Apple.com Clone](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Apple.com_Mock-Up&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://vahe-sevachyan.github.io/Apple.com_Mock-Up/)
-
-[![Password Amplifier](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Password-Amplifier&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://vahe-sevachyan.github.io/Password-Amplifier/)
- 
-[![Bookmark Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vahe-Sevachyan&repo=Bookmark-Tracker&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://vahe-sevachyan.github.io/Bookmark-Tracker/)
-
-
