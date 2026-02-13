@@ -11,8 +11,6 @@
 
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/CypherCode13/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vahe-gharagiozyan-863a5599/)
-[![FreeCode Camp](https://img.shields.io/badge/%20-Code-black?color=14171A&labelColor=212121&logo=freecodecamp&logoColor=ffffff)](https://www.freecodecamp.org/vahe-sevachyan)
-[![Frontend Mentor](https://img.shields.io/badge/%20-FrontendMentor-black?color=14171A&labelColor=212121&logo=frontendmentor&logoColor=ffffff)](https://www.frontendmentor.io/profile/CypherCode13)
 
 ### 📝 Some things about me
 
