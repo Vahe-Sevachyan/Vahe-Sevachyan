@@ -14,7 +14,7 @@
 
 ### 📝 Some things about me
 
-- 🌱 I’m currently learning Vue and TypeScript🤔
+- 🌱 I’m currently learning React and TypeScript🤔
 - 🎓 I'm a Tech Degree Graduate from TreeHouse💻
 - 🥅 2026 Goals: Nuxt JS and Node JS  ⚡
 - 🤝 I’m looking to collaborate with other developers
