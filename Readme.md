@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning React and TypeScript🤔
 - 🎓 I'm a Tech Degree Graduate from TreeHouse💻
-- 🥅 2026 Goals: Nuxt JS and Node JS  ⚡
+- 🥅 2026 Goals: Next JS and Node JS  ⚡
 - 🤝 I’m looking to collaborate with other developers
 - ⚡ Fun Fact: I love to do archery, i shoot a Mathews VXR🏹
 - 🌐 You can see some of my projects on [My Portfolio](https://vahe.tech/)
