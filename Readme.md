@@ -1,14 +1,3 @@
-[![Website](https://img.shields.io/website?label=vahe.tech&style=for-the-badge&url=https%3A%2F%2Fvahe.tech)](https://vahe.tech)
-<a href="https://github.com/Vahe-Sevachyan">
-<img alt="followers" title=" Github" src="https://img.shields.io/github/followers/Vahe-Sevachyan?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-
-</p>
-
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/CypherCode13/)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vahe-gharagiozyan-863a5599/)
-
----
-
 ### 🛠 Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
